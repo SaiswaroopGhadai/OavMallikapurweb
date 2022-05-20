@@ -1,0 +1,38 @@
+body {
+    font-size: 15pt;
+    background-color: papayawhip;
+}
+.wlc{
+ text-align: center;
+}
+.map{
+ text-align: center;
+}
+
+.h{
+ font-style: italic;
+ font-weight: bolder;
+}
+
+.teacher{
+ text-align: center;
+}
+
+.teacher headmas{
+ padding-top: 4cm;
+}
+
+.headmas{
+margin-top: 5cm;
+}
+
+.about{
+ text-align: center;
+
+}
+
+.abtprogrammer{
+ font-size: 2px;
+ padding-bottom: 1px;
+ padding-top: 2cm;
+}
